@@ -1,2 +1,2 @@
-# Eatify Screenshot : (https://eatifyy.netlify.app/)
-![screen](/eatify.png)
+<!-- # Eatify Screenshot : (https://eatifyy.netlify.app/) -->
+<!-- ![screen](/eatify.png) -->
